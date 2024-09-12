@@ -1,4 +1,3 @@
-[![MasterHead](https://clockwise.software/img/blog/angular-vs-react-vs-vue/header-background.jpg)
 <h1 align="center">Hi 👋, I'm Alparslan Gülbaş</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 
